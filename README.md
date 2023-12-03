@@ -8,13 +8,13 @@ replace the stock symbol in the getStock function
 
 OR
 
-#instance it as 
+# instance it as 
 
 
 prices = getStock("Symbol of NASDAQ Stock")
 
 
-#Infomation
+# Infomation
 
 
 Financial Data is pulled from Yahoo Finance API
