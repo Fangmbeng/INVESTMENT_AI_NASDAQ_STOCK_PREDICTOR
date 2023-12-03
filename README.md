@@ -17,7 +17,7 @@ prices = getStock("Symbol of NASDAQ Stock")
 #  Infomation
 
 
-Financial Data is pulled from Yahoo Finance API
+Financial Data is pulled from Yahoo Finance API  https://algotrading101.com/learn/yahoo-finance-api-guide/
 
 
 Prediction of NASDAQ companies and symbols
